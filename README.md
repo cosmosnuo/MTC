@@ -47,7 +47,6 @@ Note:
           -hv hidden_dimsV -- list of V1 hidden dimensions (default [64, 64])
           -hd hidden_dims -- list of feature hidden dimensions (default [64, 64])
           -la1 lambda1 -- Rate for gtr (default 0.001)
-          -la2 lambda2 -- Rate for clu (default 1)
 
 A reference for users **************************************************
 
